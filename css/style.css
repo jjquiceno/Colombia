@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 :root{
-    --bg-primary: red;
-    --text-primary: yellow;
+    --bg-primary: blue;
+    --text-primary: white;
 }
 .content{
     width: 100vw;
